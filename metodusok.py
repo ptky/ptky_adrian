@@ -1,2 +1,2 @@
-def jani():
-    ...
+def elvalaszto(hossz):
+    
