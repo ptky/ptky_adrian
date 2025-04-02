@@ -44,5 +44,3 @@ def ossz():
     osszesen()
     
 ossz()
-=======
->>>>>>> 77dbeef41329f8b048f3ff7416e592ad1e20f5e8
