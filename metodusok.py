@@ -1,3 +1,5 @@
+#Pataky Dániel
+
 def csillag(hossz):
     i = 0
     while i < hossz:
