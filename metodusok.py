@@ -1,3 +1,5 @@
+#Pataky Dániel
+
 import random
 
 
